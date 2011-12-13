@@ -1,0 +1,6 @@
+[submodule "bundle/tabularize"]
+	path = bundle/tabularize
+	url = git@github.com:godlygeek/tabular.git
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = git@github.com:tpope/vim-fugitive.git
