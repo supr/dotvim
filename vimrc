@@ -19,6 +19,7 @@ set incsearch
 set ignorecase
 set smartcase
 
+se nu
 set t_Co=256
 colorscheme 256-jungle
 set modeline
