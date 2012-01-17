@@ -9,9 +9,10 @@ filetype plugin indent on
 
 ""Whitespace
 set nowrap
-set tabstop=4 shiftwidth=4
+set tabstop=2 shiftwidth=2
 set expandtab
 set backspace=indent,eol,start
+"set list
 
 ""Searching
 set hlsearch
