@@ -1,5 +1,4 @@
-call pathogen#runtime_append_all_bundles()
-call pathogen#helptags()
+call pathogen#infect()
 
 set nocompatible
 syntax enable
@@ -22,5 +21,4 @@ set smartcase
 
 se nu
 set t_Co=256
-colorscheme 256-jungle
 set modeline
