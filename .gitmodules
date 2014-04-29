@@ -31,3 +31,6 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = git@github.com:scrooloose/nerdtree.git
+[submodule "bundle/vim-rust"]
+	path = bundle/vim-rust
+	url = git@github.com:wting/rust.vim.git
